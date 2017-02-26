@@ -19,9 +19,9 @@ reward: false
 
 
 战狼中队成员:
-**赵旭**&nbsp;&nbsp;&nbsp; 代号: **孤狼**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **刘洪亮** 代号: **野狼**
-**赵靖阳** 代号: **黑狼**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **刘高斯** 代号: **天狼**
-**杨彭悦** 代号: **风月狼**&nbsp;&nbsp;&nbsp; **李子赫** 代号: **灵狼**
-**李元浩** 代号: **北极狼**&nbsp;&nbsp;&nbsp; **蔡岢峥** 代号: **雪狼**
-**程都**&nbsp;&nbsp;&nbsp; 代号: **金刚狼**&nbsp;&nbsp;&nbsp; **张酉**&nbsp;&nbsp;&nbsp; 代号: **灰太狼**
+**赵旭**&nbsp;&nbsp;&nbsp; 代号: **孤狼**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Icean L** 代号: **野狼**
+**靖阳** 代号: **黑狼**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **高斯** 代号: **天狼**
+**彭悦** 代号: **风月狼**&nbsp;&nbsp;&nbsp; **子赫** 代号: **灵狼**
+**元浩** 代号: **北极狼**&nbsp;&nbsp;&nbsp; **岢峥** 代号: **雪狼**
+**都**&nbsp;&nbsp;&nbsp; 代号: **金刚狼**&nbsp;&nbsp;&nbsp; **酉**&nbsp;&nbsp;&nbsp; 代号: **灰太狼**
 
